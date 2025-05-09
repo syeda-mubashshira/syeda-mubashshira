@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syeda3011" alt="syeda3011" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
-
 - 👨‍💻 All of my projects are available at [https://syeda-mubashshira-y.netlify.app/](https://syeda-mubashshira-y.netlify.app/)
 
 - 📫 How to reach me **sazram3011@gmail.com**
